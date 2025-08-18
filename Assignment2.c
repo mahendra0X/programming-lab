@@ -2,7 +2,7 @@
 
 int main() {
     float num1, num2, sum;
-      //Asking fot the user two number
+      //Asking forr the user two number
       printf("Enter first number:");
       scanf("%f", &num1);
      //code for taking second number
@@ -13,4 +13,5 @@ int main() {
     //Displaying the sum 
     printf("sum = %.2f", sum);
     return 0; 
+
 }
